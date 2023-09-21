@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pmbagiltoo/test_cypress/issues"
   },
-  "homepage": "https://github.com/pmbagiltoo/test_cypress#readme"
+  "homepage": "https://github.com/pmbagiltoo/test_cypress#readme",
+  "dependencies": {
+    "cypress": "^13.2.0"
+  }
 }
