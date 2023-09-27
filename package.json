@@ -18,5 +18,8 @@
   "homepage": "https://github.com/pmbagiltoo/test_cypress#readme",
   "dependencies": {
     "cypress": "^13.2.0"
+  },
+  "devDependencies": {
+    "cucumber": "^6.0.7"
   }
 }
